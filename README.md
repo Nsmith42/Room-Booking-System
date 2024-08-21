@@ -93,5 +93,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or concerns, feel free to reach out to the repository maintainer:
 
-- **Name**: Nsmith42
+- **Name**: Nicholas James Smith
 - **GitHub**: [Nsmith42](https://github.com/Nsmith42)
